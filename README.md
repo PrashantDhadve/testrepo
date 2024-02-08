@@ -1,6 +1,1 @@
-![Q1-Extracting Stock Data Using a Web Scraping](https://github.com/PrashantDhadve/testrepo/assets/148066878/3cea89f4-a626-42a7-a61e-d8295f878d10)
-# testrepo
-
-## File from Scratch
-
-its Prashant Dhadve.
+![Q6-make_graph(gme_stock_data, gme_revenue_data, 'GameStop')](https://github.com/PrashantDhadve/testrepo/assets/148066878/e822f74a-b9c3-490c-ba4d-7f6f99c80b71)
